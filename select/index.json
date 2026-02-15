@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "SHIKATO!!!",
+  "base_artist": "Novel Core",
+  "createdAt": "2026-02-15T07:28:16.270582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SHIKATO!!!",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/01_SHIKATO!!!_Novel_Core.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHIKATO!!!",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/pl_01_SHIKATO!!!_Novel_Core.txt"
+    }
+  ]
+}
